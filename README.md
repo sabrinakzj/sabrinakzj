@@ -5,8 +5,6 @@ Hi, I'm Sabrina, a passionate college student with a keen interest in data analy
 Programming Languages: Python, R Studio,MS Office,SQL&Tableau
 
 📂 Projects:
-[Project Name]: [Brief Description]
-[Project Name]: [Brief Description]
 
 💬 Let's Connect:
 [Email]sabrina_kzj@126.com
