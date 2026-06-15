@@ -2,7 +2,7 @@
 Hi, I'm Sabrina, a passionate college student with a keen interest in data analysis. Here, you'll find a collection of my projects and contributions to the coding community.
 
 🔧 Skills & Technologies:
-Programming Languages: Python, R Studio,MS Office,SQL&Tableau
+Python, R Studio,MS Office,SQL&Tableau
 
 📂 Projects:
 
